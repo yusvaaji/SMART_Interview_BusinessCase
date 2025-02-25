@@ -61,7 +61,7 @@ CREATE TABLE public."Users" (
 );
 
 
-    **store procedure section**
+**store procedure section**
     
 -- Create stored procedures for CRUD operations on the ConstructionProjects table
 
